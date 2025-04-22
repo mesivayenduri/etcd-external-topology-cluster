@@ -1,9 +1,11 @@
 Create 3 new vms in Oracle VM with either ubuntu/centos
 
+```table
 Hostname | IP
 etcd-node-1 | 192.168.56.1/24
 etcd-node-2 | 192.168.56.2/24
 etcd-node-3 | 192.168.56.3/24
+```
 
 ```graph
 192.168.56.1/24  192.168.56.2/24   192.168.56.3/24
