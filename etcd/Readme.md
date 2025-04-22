@@ -12,7 +12,7 @@ etcd-node-3 | 192.168.56.3/24
      +------------------+------------------+
                         |
                [kube-apiserver]
-```graph
+```
 
 etcdctl --endpoints=http://192.168.56.101:2379,http://192.168.56.102:2379,http://192.168.56.103:2379 endpoint health
 
