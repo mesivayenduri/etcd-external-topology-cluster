@@ -1,2 +1,2 @@
-*.crt
-*.key
+etcd/etcd-certs/*.crt
+etcd/etcd-certs/*.key
